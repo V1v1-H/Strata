@@ -1,4 +1,3 @@
 # Strata
-Find the 3 most profitable companies in the entire world.
-Output the result along with the corresponding company name.
-Sort the result based on profits in descending order.
+Here are my solutions to questions asked in the coding platform Stratascratch (https://www.stratascratch.com/),
+Responses are in SQL.
