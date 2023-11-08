@@ -1,5 +1,7 @@
 /*
 
+From a Facebook coding interview.
+
 https://platform.stratascratch.com/coding/10350-algorithm-performance
 
 
