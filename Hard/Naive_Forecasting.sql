@@ -1,5 +1,7 @@
 /*
 
+https://platform.stratascratch.com/coding/10313-naive-forecasting
+
 Some forecasting methods are extremely simple and surprisingly effective. Naïve forecast is one of them; we simply set all forecasts to be the value of the last observation. 
 
 Our goal is to develop a naïve forecast for a new metric called "distance per dollar" defined as the (distance_to_travel/monetary_cost) in our dataset and measure its accuracy.
