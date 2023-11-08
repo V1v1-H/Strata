@@ -1,8 +1,7 @@
 /*
 
-https://platform.stratascratch.com/coding/10352-users-by-avg-session-time?code_type=1
+https://platform.stratascratch.com/coding/10352-users-by-avg-session-time
 
-Problem : 
 
 Calculate each user's average session time. A session is defined as the time difference between a page_load and page_exit. 
 
