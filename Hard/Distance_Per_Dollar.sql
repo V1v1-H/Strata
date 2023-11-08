@@ -1,4 +1,5 @@
 /*
+A job interview coding question from Uber
 
 https://platform.stratascratch.com/coding/10302-distance-per-dollar
 
