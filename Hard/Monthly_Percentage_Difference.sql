@@ -21,5 +21,5 @@ gp2 as (
 select gp1.created_at as d1, gp1.value_month as v1, lag (gp1.value_month,1) over (order by gp1.created_at) as value_last_month
 from gp1 )
 
-select gp2.d1 as year_month, ((gp2.v1-gp2.value_last_month)/gp2.value_last_month)*100 as revenue_diff_pct
+select gp2.d1 as year_month, round(((gp2.v1-gp2.value_last_month)/gp2.value_last_month)*100,2) as revenue_diff_pct
 from gp2
