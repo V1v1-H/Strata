@@ -9,8 +9,6 @@ For simplicity, assume a user has only 1 session per day and if there are multip
 
 Output the user_id and their average session time.
 
-This exercise ain't tough
-
 */
 
 with tab_load as (select user_id, max(timestamp) as max_load, action, date(timestamp) as d_date 
